@@ -1,8 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/ghchinoy/monorepo/app1/printer"
+)
 
 func main() {
 	fmt.Println("app2")
-	app1.PrintThis("Hello Squirrel")
+	printer.PrintThis("Hello Squirrel")
 }

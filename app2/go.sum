@@ -1,0 +1,3 @@
+github.com/ghchinoy/monorepo v0.0.0-20201125202914-a534b5accf42 h1:fRkocu8cE34EHUfLJM4sQFAwfxtBl8FxYbLlpgOOks0=
+github.com/ghchinoy/monorepo/app1 v0.0.0-20201125202914-a534b5accf42 h1:AFT2cIMVT3fNJg6get9ue+zLSCMvL2TmuYFJQxq4VAQ=
+github.com/ghchinoy/monorepo/app1 v0.0.0-20201125202914-a534b5accf42/go.mod h1:zB78rDeSuVmXH+DD5b4SoILTlNbpUbabUbxTs9mFmKk=

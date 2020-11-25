@@ -1,8 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/ghchinoy/monorepo/app1/printer"
+)
 
 func main() {
 	fmt.Println("first of monorepo")
-	PrintThis("Hello World")
+	printer.PrintThis("Hello World")
 }
